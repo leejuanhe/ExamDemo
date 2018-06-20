@@ -10,7 +10,7 @@ public class OneTest {
     System.out.println("OneTest.testFoo");
 
     //Test foo
-    assertEquals("foo", one.foo());
+    assertEquals("foo1", one.foo());
   }
 
   @Test
